@@ -1,0 +1,5 @@
+rootProject.name = 'DP'
+
+include 'dp-common', 'dp-api', 'dp-batch-module'
+include 'dp-job'
+
